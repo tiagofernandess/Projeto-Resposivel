@@ -87,7 +87,7 @@ button:active {
 }
 
 .link-header:active {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 header {
